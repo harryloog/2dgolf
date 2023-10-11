@@ -1,1 +1,1 @@
-# 2dgolf
+# https://taavikamarik.github.io/GameDevPrototype/
